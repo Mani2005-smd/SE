@@ -1,0 +1,11 @@
+# Hospital Management System - User Stories
+
+## 3. Generate Bill
+**As a** receptionist,  
+**I want to** generate a bill for a patient after consultation and treatment,  
+**So that** the patient can make the necessary payment.
+
+## 4. Track Medical Supplies
+**As an** inventory manager,  
+**I want to** track and manage medical supplies like medicines, bandages, and surgical tools,  
+**So that** the hospital never runs out of essential supplies.
