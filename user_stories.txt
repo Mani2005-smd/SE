@@ -1,1 +1,22 @@
 As a [type of user] , I want [an action or feature] , So that [an reason or benefit]
+# Hospital Management System - User Stories
+
+## 1. Patient Registration
+**As a** receptionist,  
+**I want to** register a new patient by capturing personal details and medical history,  
+**So that** the patient can be added to the system for future appointments and treatments.
+
+## 2. Schedule Appointment
+**As a** patient,  
+**I want to** schedule an appointment with a doctor,  
+**So that** I can receive medical consultation at a convenient time.
+
+## 3. Generate Bill
+**As a** receptionist,  
+**I want to** generate a bill for a patient after consultation and treatment,  
+**So that** the patient can make the necessary payment.
+
+## 4. Track Medical Supplies
+**As an** inventory manager,  
+**I want to** track and manage medical supplies like medicines, bandages, and surgical tools,  
+**So that** the hospital never runs out of essential supplies.
